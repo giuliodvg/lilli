@@ -11,3 +11,6 @@ ol{
 body{
     background-color: lightslategray;
 }
+strong{
+    color: yellow;
+}
